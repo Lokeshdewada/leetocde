@@ -27,7 +27,6 @@ class Geeks
 
 //User function Template for Java
 
-
 class Solution{
     int carpetBox(int A, int B, int C, int D) { 
         //code here
